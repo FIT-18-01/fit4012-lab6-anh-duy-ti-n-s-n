@@ -23,4 +23,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run tests
-        run: pytest -q
+        run: |
+          export PYTHONIOENCODING=utf-8
+          export SOCKET_TIMEOUT=10
+          python -m pytest tests/ -v --tb=short
