@@ -16,20 +16,20 @@ Lab này kế thừa ý tưởng từ Lab 3 DES Socket, nhưng nâng cấp theo 
 
 ## Team members
 
-- **Thành viên 1**: TODO_MEMBER_1 - MSSV: TODO_MEMBER_1_ID
-- **Thành viên 2**: TODO_MEMBER_2 - MSSV: TODO_MEMBER_2_ID
+- **Thành viên 1**: Đỗ Huy Anh Duy - MSSV: 1871020190
+- **Thành viên 2**: Đỗ Tiến Sơn - MSSV: 1871020508
 
 ## Task division
 
-- **Thành viên 1 phụ trách chính**: TODO_ROLE_MEMBER_1
-- **Thành viên 2 phụ trách chính**: TODO_ROLE_MEMBER_2
-- **Phần làm chung**: TODO_SHARED_WORK
+- **Thành viên 1 phụ trách chính**: Cài đặt sender.py và aes_socket_utils.py
+- **Thành viên 2 phụ trách chính**: Cài đặt receiver.py và test cases
+- **Phần làm chung**: Report, threat model, peer review response
 
 ## Demo roles
 
-- **Demo Sender / kênh khóa / log gửi**: TODO_DEMO_ROLE_1
-- **Demo Receiver / kênh dữ liệu / giải mã**: TODO_DEMO_ROLE_2
-- **Cả hai cùng trả lời threat model và ethics**: TODO_DEMO_ROLE_SHARED
+- **Demo Sender / kênh khóa / log gửi**: Đinh Mạnh Tú
+- **Demo Receiver / kênh dữ liệu / giải mã**: Hà Minh Quân
+- **Cả hai cùng trả lời threat model và ethics**: Cả hai
 
 ---
 
